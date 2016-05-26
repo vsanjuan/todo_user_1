@@ -1,0 +1,7 @@
+id,name,user_id/id,date_deadline,is_done
+todo_task_a,Tarea 3,base.user_root,2016-05-29,False
+todo_task_b,Tarea 4,base.user_root,2016-05-28,False
+todo_task_c,Tarea 5,base.user_root,2016-05-27,True
+todo_task_d,Tarea 6,base.user_root,2016-05-26,True
+todo_task_e,Tarea 7,base.user_root,2016-05-25,False
+todo_task_f,Tarea 8,base.user_root,2016-05-24,False
